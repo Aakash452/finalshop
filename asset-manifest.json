@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finalshop/static/css/main.10b3e53d.css",
+    "main.js": "/finalshop/static/js/main.1523dcd3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/finalshop/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/finalshop/index.html",
+    "main.10b3e53d.css.map": "/finalshop/static/css/main.10b3e53d.css.map",
+    "main.1523dcd3.js.map": "/finalshop/static/js/main.1523dcd3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/finalshop/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b3e53d.css",
+    "static/js/main.1523dcd3.js"
+  ]
+}
